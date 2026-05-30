@@ -4,7 +4,9 @@
   88b     88PPY8.  8888' 88   '888    88PPY8.      
   88P     8b   `Y' Y8P   Y8 '88p      8b   `Y'
 
-  Bio Site -> https://stauropegic.github.io/
+  Hi im fanta, Im Currently learning Web development and Game cheat development!
+
+  Some languages i know or im learning is Python, JS, C#, C++, Golang, and Some Batch
 
   Hope your having a great day!
 ```
