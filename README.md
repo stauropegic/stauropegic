@@ -4,9 +4,9 @@
   88b     88PPY8.  8888' 88   '888    88PPY8.      
   88P     8b   `Y' Y8P   Y8 '88p      8b   `Y'
 
-  Hi im fanta, Im Currently learning Web development and Game cheat development!
+  Hi im fanta!
 
-  Some languages i know or im learning is Python, JS, C#, C++, Golang, and Some Batch
+  Currently learning front-end web development while working with Python, JavaScript, C#, C++, Go, and Batch.
 
-  Hope your having a great day!
+  Thanks for stopping by, and I hope you're having a great day!
 ```
