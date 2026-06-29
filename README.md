@@ -21,6 +21,8 @@
 
 ---
 
-> ## About Me
-> **I'm currently working on learning frontend and backend web development.\n**
-> **Some Coding languages i know or im learning are: Golang, Python, JS, C# and C++
+> ## About Me  
+> **I'm currently working on learning frontend and backend web development.**  
+>
+> **Some coding languages I know or am learning are:**  
+> Golang, Python, JavaScript, C#, C++
