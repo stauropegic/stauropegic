@@ -16,7 +16,7 @@
   
 # Join the Discord!
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1380188448702332931)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vdWmnZW6Vc)
 
 </div>
 
