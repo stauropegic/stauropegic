@@ -1,5 +1,5 @@
 <div align="center">
-![logo](https://taunt.rest/assets/bg.png)
+<img width="860" height="560" alt="bg" src="https://github.com/user-attachments/assets/f16744bf-4de7-4068-966d-c97aa38bfbe3" />
 <pre>
    ▄████████    ▄████████ ███▄▄▄▄       ███        ▄████████ 
   ███    ███   ███    ███ ███▀▀▀██▄ ▀█████████▄   ███    ███ 
