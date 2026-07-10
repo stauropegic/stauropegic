@@ -21,10 +21,11 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
----
-## About Me  
-I'm currently working on learning frontend and backend web development.
 
-Some coding languages I know or im learning are:
-Golang, Python, JavaScript, C#, C++
 ---
+
+> ## About Me  
+> **I'm currently working on learning frontend and backend web development.**  
+>
+> **Some coding languages I know or im learning are:**  
+> Golang, Python, JavaScript, C#, C++
